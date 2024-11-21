@@ -15,13 +15,17 @@ SSH Hosting method of laravel
 5. php artisan key:generate
 6. cp .env.example .env
 7. nano .env
+
+	note: if you change any value in the nano terminal 
+		how to save and exit ?
+			press Ctrl + O and press enter key and using Ctrl + X you can exit the terminal.
+
+
 8  php artisan migrate
 9. php artisan serve
 
 
-note: if you change any value in the nano terminal 
-		how to save and exit ?
-			press Ctrl + O and press enter key and using Ctrl + X you can exit the terminal.
+
 			
 
 note: if you want to remove the all folder&files please use this command->  rm -rf *
