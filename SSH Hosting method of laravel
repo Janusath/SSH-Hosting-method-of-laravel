@@ -11,8 +11,8 @@ SSH Hosting method of laravel
 		how to create the access token in github? 
 				1. go to setting-> Developer Setting -> Persional access tokens -> token(classic) -> Generate new token ->generete new token (classic) -> insert new token name & check the all checkbox and enter the generate token button.
 				2. enter github user name and enter access token key  
-4. composer2 update
-5. php artisan key:generate
+4. php artisan key:generate
+5. composer2 update
 6. cp .env.example .env
 7. nano .env
 
