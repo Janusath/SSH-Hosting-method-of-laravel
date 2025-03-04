@@ -30,5 +30,6 @@ SSH Hosting method of laravel
 
 note: if you want to remove the all folder&files please use this command->  rm -rf *
 note: check the target folder path using this conmmand -> pwd
+note : direct clone without sub folder use the dot . after github link  for ex git clone https://github.com/Janusath/Marazin-ultimate-pos.git .
 note: if you want to move the folder & file to another folder please use this command -> mv * /home/u838412098/domains/marazin.lk/public_html/verify
 
