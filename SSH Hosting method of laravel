@@ -15,7 +15,14 @@ Click "Add SSH Key"
 finished 
 after that you can clone : git clone https://github.com/Janusath/Marazin-ultimate-pos.git
 
+or 
 
+ if you have faced any issue please generete the access token 
+		how to create the access token in github? 
+				1. go to setting-> Developer Setting -> Persional access tokens -> token(classic) -> Generate new token ->generete new token (classic) -> insert new token name & check the all checkbox and enter the generate token button.
+				2. enter github user name and enter access token key  
+
+key generate finished
 
 
 
@@ -26,14 +33,6 @@ SSH Hosting method of laravel
 1. open putty terminal -> enter ip & port number ->after enter userName & password.
 2. got to the domain work place using cd  ->  for Example cd domains/marazin.lk/public_html/verify
 3. clone the project from github for example -> git clone https://github.com/Janusath/Marazin-ultimate-pos.git
-
-note : direct clone without sub folder use the dot . after github link  for ex git clone https://github.com/Janusath/Marazin-ultimate-pos.git .
-			
-
-    if you have faced any issue please generete the access token 
-		how to create the access token in github? 
-				1. go to setting-> Developer Setting -> Persional access tokens -> token(classic) -> Generate new token ->generete new token (classic) -> insert new token name & check the all checkbox and enter the generate token button.
-				2. enter github user name and enter access token key  
 4. composer2 update/composer update
 5. php artisan key:generate
 6. cp .env.example .env
