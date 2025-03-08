@@ -13,7 +13,7 @@ Paste the copied key into the Key field.
 Click "Add SSH Key"
 
 finished 
-after that you can clone : git clone git@github.com:Janusath/abs-construction.git
+after that you can clone : git clone git@github.com:Janusath/abs-construction.git .
 
 or 
 
@@ -32,10 +32,10 @@ SSH Hosting method of laravel
 
 1. open putty terminal -> enter ip & port number ->after enter userName & password.
 2. got to the domain work place using cd  ->  for Example cd domains/marazin.lk/public_html/verify
-3. clone the project from github for example -> git clone https://github.com/Janusath/Marazin-ultimate-pos.git
+3. clone the project from github for example -> git clone git@github.com:Janusath/abs-construction.git .
 4. composer2 update/composer update
-5. php artisan key:generate
-6. cp .env.example .env
+5. cp .env.example .env
+6. php artisan key:generate
 7. nano .env
 
 	note: if you change any value in the nano terminal 
