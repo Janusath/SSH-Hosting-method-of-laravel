@@ -13,7 +13,7 @@ Paste the copied key into the Key field.
 Click "Add SSH Key"
 
 finished 
-after that you can clone : git clone https://github.com/Janusath/Marazin-ultimate-pos.git
+after that you can clone : git clone git@github.com:Janusath/abs-construction.git
 
 or 
 
