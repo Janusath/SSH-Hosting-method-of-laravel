@@ -15,6 +15,11 @@ Click "Add SSH Key"
 finished 
 after that you can clone : git clone git@github.com:Janusath/abs-construction.git .
 
+when getting below error
+fatal: destination path '.' already exists and is not an empty directory.
+   use this command-> rm -rf .* *      // for remove all files and folders
+
+
 or 
 
  if you have faced any issue please generete the access token 
